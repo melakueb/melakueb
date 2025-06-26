@@ -1,6 +1,6 @@
 ### Hello  👋
 My name is Elshaddai.
-I am a fourth-year CS major.
+I am a fifth-year CS major.
 <!--
 **melakueb/melakueb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
